@@ -6,15 +6,15 @@ _inputs:
     options:
       place_groups_below: false
       groups:
-        - heading: Still to translate (fr-FR)
+        - heading: Still to translate (nl-NL)
           comment: Text to translate on [404](https://slick-penguin.cloudvent.net/404)
-          inputs: []
-        - heading: Already translated (fr-FR)
-          comment: Text already translated on
-            [404](https://slick-penguin.cloudvent.net/404)
           inputs:
             - blog
             - rss-feed
+        - heading: Already translated (nl-NL)
+          comment: Text already translated on
+            [404](https://slick-penguin.cloudvent.net/404)
+          inputs: []
   blog:
     label: Blog
     hidden: false
@@ -27,5 +27,5 @@ _inputs:
     type: text
     options: {}
     comment: "[See on page](https://slick-penguin.cloudvent.net/404#:~:text=RSS%20Feed)"
-blog: " Blog "
-rss-feed: " Flux RSS "
+blog: ""
+rss-feed: ""

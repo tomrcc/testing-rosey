@@ -3,17 +3,17 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/a-test-page/](https://poised-plain.cloudvent.net/blog/a-test-page/)"
+      blog/a-test-page/](https://slick-penguin.cloudvent.net/blog/a-test-page/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (de-DE)
           comment: Text to translate on
-            [blog/a-test-page/](https://poised-plain.cloudvent.net/blog/a-test-page/)
+            [blog/a-test-page/](https://slick-penguin.cloudvent.net/blog/a-test-page/)
           inputs: []
         - heading: Already translated (de-DE)
           comment: Text already translated on
-            [blog/a-test-page/](https://poised-plain.cloudvent.net/blog/a-test-page/)
+            [blog/a-test-page/](https://slick-penguin.cloudvent.net/blog/a-test-page/)
           inputs:
             - a-test-page
             - a-test-post-vid
@@ -40,23 +40,23 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=A%20Te\
-      st%20Page)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=A%20T\
+      est%20Page)"
   a-test-post-vid:
     label: A test post vid
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=A%20te\
-      st%20post%20vid)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=A%20t\
+      est%20post%20vid)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Blog)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Blog)"
   markdown:a-new-test-paragraph-that-has-to-be-long-enough-words-but-end-in-a-certain-way:
     label: A new. test paragraph that has to be long ...
     hidden: false
@@ -72,8 +72,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=A%20ne\
-      w,a%20certain)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=A%20n\
+      ew,a%20certain)"
     context:
       open: false
       title: Untranslated Text
@@ -95,8 +95,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=All%20\
-      you%20have,There%20we%20are)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=All%2\
+      0you%20have,There%20we%20are)"
     context:
       open: false
       title: Untranslated Text
@@ -119,8 +119,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Anothe\
-      r%20code%20block:)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Anoth\
+      er%20code%20block:)"
   markdown:here's-a-new-paragraph-with-a-link-in-the-content-editor:
     label: Here’s a new paragraph with a link in the ...
     hidden: false
@@ -136,8 +136,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Here%E\
-      2%80%99s%20a%20new,the%20content%20editor)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Here%\
+      E2%80%99s%20a%20new,the%20content%20editor)"
     context:
       open: false
       title: Untranslated Text
@@ -159,8 +159,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Mix%20\
-      your%20color,it%20all%20day)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Mix%2\
+      0your%20color,it%20all%20day)"
     context:
       open: false
       title: Untranslated Text
@@ -184,8 +184,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Take%2\
-      0your%20time,just%20playing%20here)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Take%\
+      20your%20time,just%20playing%20here)"
     context:
       open: false
       title: Untranslated Text
@@ -210,8 +210,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=We%E2%\
-      80%99ll%20throw%20some,make%20in%20school)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=We%E2\
+      %80%99ll%20throw%20some,make%20in%20school)"
     context:
       open: false
       title: Untranslated Text
@@ -235,8 +235,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=We%20h\
-      ave%20a,to%20use%20it)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=We%20\
+      have%20a,to%20use%20it)"
     context:
       open: false
       title: Untranslated Text
@@ -258,8 +258,8 @@ _inputs:
       copyformatting: true
       blockquote: true
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=We%20h\
-      ave%20all,be%20your%20guide)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=We%20\
+      have%20all,be%20your%20guide)"
     context:
       open: false
       title: Untranslated Text
@@ -268,51 +268,52 @@ _inputs:
         we haven’t even done anything to it yet. Let’s make some happy little
         clouds in our world. Let your heart be your guide.
   minutes:
-    label: 1 minutes
+    label: 0 minutes
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=1%20mi\
-      nutes)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=0%20m\
+      inutes)"
   recent-posts:
     label: Recent Posts
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Recent\
-      %20Posts)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Recen\
+      t%20Posts)"
   rss-feed:
     label: RSS Feed
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=RSS%20\
-      Feed)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=RSS%2\
+      0Feed)"
   testing:
     label: Testing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Testin\
-      g)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Testi\
+      ng)"
   video:
     label: Video
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Video)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Video\
+      )"
   words:
-    label: 326 words
+    label: 90 words
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=326%20\
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=90%20\
       words)"
   yay-we-support-snippets-now!:
     label: Yay, we support snippets now!
@@ -320,8 +321,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://poised-plain.cloudvent.net/blog/a-test-page/#:~:text=Yay,%2\
-      0we%20support%20snippets%20now!)"
+      page](https://slick-penguin.cloudvent.net/blog/a-test-page/#:~:text=Yay,%\
+      20we%20support%20snippets%20now!)"
 a-test-page: Eine Testseite
 a-test-post-vid: Ein Test-Post-Video
 blog: " Blog "

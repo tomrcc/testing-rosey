@@ -6,12 +6,8 @@ _inputs:
     options:
       place_groups_below: false
       groups:
-        - heading: Still to translate (de-DE)
+        - heading: Still to translate (nl-NL)
           comment: Text to translate on [blog/](https://slick-penguin.cloudvent.net/blog/)
-          inputs: []
-        - heading: Already translated (de-DE)
-          comment: Text already translated on
-            [blog/](https://slick-penguin.cloudvent.net/blog/)
           inputs:
             - a-test-page
             - a-test-post-vid
@@ -21,6 +17,10 @@ _inputs:
             - rss-feed
             - testing
             - video
+        - heading: Already translated (nl-NL)
+          comment: Text already translated on
+            [blog/](https://slick-penguin.cloudvent.net/blog/)
+          inputs: []
   a-test-page:
     label: A Test Page
     hidden: false
@@ -76,11 +76,11 @@ _inputs:
     type: text
     options: {}
     comment: "[See on page](https://slick-penguin.cloudvent.net/blog/#:~:text=Video)"
-a-test-page: Eine Testseite
-a-test-post-vid: Ein Test-Post-Video
-blog: " Blog "
-bob-ross: Bob Ross
-bob-ross-test: Bob Ross Test
-rss-feed: " RSS-Feed "
-testing: Testen
-video: Video
+a-test-page: ""
+a-test-post-vid: ""
+blog: ""
+bob-ross: ""
+bob-ross-test: ""
+rss-feed: ""
+testing: ""
+video: ""

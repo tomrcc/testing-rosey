@@ -6,18 +6,18 @@ _inputs:
     options:
       place_groups_below: false
       groups:
-        - heading: Still to translate (de-DE)
+        - heading: Still to translate (nl-NL)
           comment: Text to translate on [tags/bob
-            ross/](https://slick-penguin.cloudvent.net/tags/bob ross/)
-          inputs: []
-        - heading: Already translated (de-DE)
-          comment: Text already translated on [tags/bob
             ross/](https://slick-penguin.cloudvent.net/tags/bob ross/)
           inputs:
             - blog
             - bob-ross
             - bob-ross-test
             - rss-feed
+        - heading: Already translated (nl-NL)
+          comment: Text already translated on [tags/bob
+            ross/](https://slick-penguin.cloudvent.net/tags/bob ross/)
+          inputs: []
   blog:
     label: Blog
     hidden: false
@@ -46,7 +46,7 @@ _inputs:
     options: {}
     comment: "[See on page](https://slick-penguin.cloudvent.net/tags/bob
       ross/#:~:text=RSS%20Feed)"
-blog: " Blog "
-bob-ross: Bob Ross
-bob-ross-test: Bob Ross Test
-rss-feed: " RSS-Feed "
+blog: ""
+bob-ross: ""
+bob-ross-test: ""
+rss-feed: ""
