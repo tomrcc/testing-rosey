@@ -1,7 +1,8 @@
 locales:
   - de-DE
   - fr-FR
-base_url: https://poised-plain.cloudvent.net/
+  - nl-NL
+base_url: https://slick-penguin.cloudvent.net/
 rosey_paths:
   rosey_base_file_path: ./rosey/base.json
   rosey_base_urls_file_path: ./rosey/base.urls.json
